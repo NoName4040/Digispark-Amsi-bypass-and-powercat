@@ -1,6 +1,6 @@
-# Digispark-Amsi-bypass-and-powercat
+# Digispark-Payload-PowerCat
 This beta and not tested digispark code .
 This digispark payload for bypassing amsi 
 Downloading powercat and connect him
-Payload name Invisible 
-https://media.tenor.com/OUYVUInLzHIAAAAM/hacker-pepe.gif
+Payload name Invisible
+
