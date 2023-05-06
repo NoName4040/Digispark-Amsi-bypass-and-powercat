@@ -10,7 +10,10 @@ void loop() {
   // İlk olarak klavye tanımlaması yapılır.
   DigiKeyboard.delay(1000); // 1 saniye bekleme
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT); // Windows + R kombinasyonu
+    
   DigiKeyboard.delay(1000); // 1 saniye bekleme
+    DigiKeyboard.print("powershell.exe");
+    
   DigiKeyboard.sendKeyStroke(KEY_ENTER); // Enter tuşuna basma
   DigiKeyboard.delay(1000); // 1 saniye bekleme
   DigiKeyboard.sendKeyStroke(MOD_ALT_RIGHT, KEY_4); // Alt + 4 kombinasyonu
